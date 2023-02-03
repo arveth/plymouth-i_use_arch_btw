@@ -11,7 +11,7 @@ How to install the theme:
 1. [install Plymouth](https://wiki.archlinux.org/title/plymouth)
 2. copy the folder 'i_use_arch_btw' of the repo in /usr/share/plymouth/themes/
 3. select the theme ``` plymouth-set-default-theme i_use_arch_btw ```
-4. recreate initramfs ``` mkinicpio -P ```
+4. recreate initramfs ``` mkinitcpio -P ```
 
 [oiginal video](https://user-images.githubusercontent.com/54505492/216335724-8d913a7a-1b83-4659-9d12-a03ee4f0d0da.mp4)
 
